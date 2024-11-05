@@ -1,20 +1,21 @@
 ACCEPT_KEYWORDS: ppc64
-ACCEPT_LICENSE: @FREE bonnie NOSA NVIDIA-r1 intel-ucode freedist bh-luxi no-source-code ipw2200-fw qlogic-fibre-channel-firmware ISSL AVASYS MicroChip-SDCC NVIDIA-r2 CC-BY-1.0 BitstreamVera BAEKMUK CC-SA-1.0 quake1-textures vlgothic CC-PD man-pages MaxMind2 LDP-1a man-pages-posix-2013 Texinfo-manual LDP-1 wxWinFDL-3 CC-BY-SA-1.0 UbuntuFontLicense-1.0 mplus-fonts myspell-en_CA-KevinAtkinson CC-BY-2.0 CC-BY-SA-2.0 OFL-1.0 GPL-3+ Arphic Free-Art-1.2 FDL-1.3 FDL-1.3+ GPL-1 GPL-2+ GPL-2 CC-BY-SA-3.0 FDL-1.1+ Free-Art-1.3 IPAfont CC-BY-3.0 OPL CC-BY-2.5 CC-BY-SA-2.5 FDL-1.1 CC-BY-SA-4.0 GPL-3 OFL-1.1 CC-BY-4.0 FDL-1.2+ FDL-1.2 GPL-1+ LPPL-1.3c AFL-3.0 Boost-1.0 AGPL-3 QPL-1.0 CPAL-1.0 LGPL-2 GPL-3+ CNRI MPL-1.1 Sleepycat W3C CPL-1.0 EPL-1.0 EPL-2.0 GPL-1 LGPL-3 AGPL-3+ GPL-2+ nethack Unlicense BlueOak-1.0.0 GPL-2 LGPL-2+ POSTGRESQL ZLIB 0BSD MIT APL-1.0 IBM ISC LBNLBSD IPAfont Artistic Ms-RL MPL-1.0 CDDL wxWinLL-3 Ms-PL Apache-1.1 MPL-2.0 PHP-3.01 Apache-2.0 Unicode-3.0 UPL-1.0 UoI-NCSA MIT-0 Unicode-DFS-2016 EUPL-1.2 BSD-2 EUPL-1.1 GPL-3 HPND BSD OFL-1.1 LGPL-2.1+ OSL-2.1 ECL-2.0 LGPL-2.1 PSF-2 PHP-3 APSL-2 ZPL LGPL-3+ Artistic-2 MirOS LPL-1.02 GPL-1+ netcat Toyoda RSA wm2 BSD-2-with-patent Interbase-1.0 tablelist xboing libpng Sendmail tm-align Snd libpng2 feh Princeton iASL LIBGLOSS repoze curl ZSH sash FLTK libtiff LPPL-1.0 NCSA-AMD Flashpix DUMB-0.9.3 TeX-other-free Sendmail-Open-Source Ispell mpich2 Sympow-BSD PHP-2.02 BSD-with-attribution JDOM Spencer-99 rwpng the-Click-license unicode Old-MIT regexp-UofT NEWLIB ErlPL-1.1 NCSA-HDF imagemagick w3m RtMidi LPPL-1.3 SSLeay FLEX inner-net lsof icu BSD-with-disclosure Allegro VTK LLGPL-2.1 minpack XC CDDL-1.1 xbatt MIT-with-advertising scanlogd trio Time-Format HTML-Tidy symlinks Time-modules AIFFWriter.m coldspringharbor psutils TeX CAOSL ngrep freetts FVWM AMPAS gsm Crypt-IDEA LambdaMOO JOVE IDPL PCRE openafs-krb5-a rdisc pngcrush torque-2.5 BZIP2 DES pngnq FastCGI dom4j CPL-0.5 UCAR-Unidata BSD-1 bufexplorer.vim buddy gd File-MMagic par SMAIL tcp_wrappers_license Khronos-CLHPP TextMate-bundle ipadic otter Info-ZIP matplotlib sdlsasteroids libmng BEER-WARE perforce rc Emacs mm flexmock alternate xtrs JasPer2.0 NPSL-0.95 URT tcltk CDDL-Schily Mini-XML photopc boehm-gc Xdebug ElementTree Openwall docbook CeCILL-B Apache-1.0 Nokia-Qt-LGPL-Exception-1.1 qwt UPX-exception public-domain Boost-1.0 W3C AGPL-3 WTFPL-2 CC0-1.0 GPL-3-with-font-exception GPL-3+ GPL-3-with-openssl-exception LGPL-2 GPL-2+-with-Pyinstaller-Bootloader-exception LGPL-2-with-linking-exception libgcc OPENLDAP GPL-1 Transmission-OpenSSL-exception GPL-2+-with-openssl-exception LGPL-3 metapackage AGPL-3+ GPL-2-with-MySQL-FLOSS-exception tanuki-community GPL-2+ CeCILL-2 Unlicense GPL-2 LGPL-2+ GPL-3+-with-autoconf-exception Apache-2.0-with-LLVM-exceptions MIT ISC gcc-runtime-library-exception-3.1 Clear-BSD GPL-3+-with-font-exception GPL-2-with-classpath-exception wxWinLL-3.1 MPL-2.0 GPL-3+-with-openssl-exception libstdc++ Sleepycat vim Apache-2.0 IJG PYTHON UoI-NCSA UPL-1.0 GPL-2-with-font-exception LGPL-3-with-linking-exception LGPL-2.1-with-linking-exception FSFAP Unicode-DFS-2016 SGI-B-2.0 BSD-2 GPL-3 HPND FTL BSD PSF-2 LGPL-2.1+ Clarified-Artistic ECL-2.0 GPL-2+-with-eCos-exception-2 LGPL-2.1 Ruby-BSD PSF-2.4 Ruby LGPL-3+ Artistic-2 ZPL ZLIB GPL-1+ GPL-2-with-linking-exception AFL-3.0 QPL-1.0 CPAL-1.0 MPL-1.1 OSL-1.1 CNRI CPL-1.0 EPL-1.0 EPL-2.0 LPPL-1.3a LPPL-1.2 AFL-2.1 IBM gnuplot CeCILL-C Ms-RL MPL-1.0 CDDL Zend-2.0 Ms-PL Apache-1.1 OSL-2.0 PHP-3.01 EUPL-1.2 BSD-4 EUPL-1.1 OSL-2.1 NPL-1.1 APSL-2 openssl FraunhoferFDK LPL-1.02 shmux linux-fw-redistributable LSI-tw_cli Atmel Broadcom Mellanox-AS-IS unRAR JSON ipw2100-fw
+ACCEPT_LICENSE: @FREE
 ACCEPT_PROPERTIES: *
 ACCEPT_RESTRICT: *
 ARCH: ppc64
 CBUILD: powerpc64-unknown-linux-gnu
 CHOST: powerpc64-unknown-linux-gnu
-CONFIG_PROTECT_MASK: /etc/ca-certificates.conf /etc/env.d /etc/fonts/fonts.conf /etc/gconf /etc/gentoo-release /etc/revdep-rebuild /etc/sandbox.d
+CONFIG_PROTECT: /etc/locale.gen
+CONFIG_PROTECT_MASK: /etc/ca-certificates.conf /etc/env.d /etc/gconf /etc/gentoo-release /etc/sandbox.d
 ELIBC: glibc
-FEATURES: assume-digests binpkg-docompress binpkg-dostrip binpkg-logs binpkg-multi-instance buildpkg buildpkg-live clean-logs config-protect-if-modified distlocks ebuild-locks fixlafiles merge-sync merge-wait multilib-strict parallel-fetch parallel-install pkgdir-index-trusted preserve-libs protect-owned qa-unresolved-soname-deps sandbox sfperms strict unknown-features-warn unmerge-logs unmerge-orphans userfetch userpriv usersandbox usersync xattr
+FEATURES: assume-digests binpkg-docompress binpkg-dostrip binpkg-logs binpkg-multi-instance buildpkg buildpkg-live clean-logs config-protect-if-modified distlocks ebuild-locks fixlafiles merge-sync merge-wait multilib-strict parallel-fetch parallel-install pkgdir-index-trusted preserve-libs protect-owned qa-unresolved-soname-deps sandbox sfperms strict unknown-features-warn unmerge-logs unmerge-orphans userfetch userpriv usersandbox usersync
 GENTOO_MIRRORS: http://distfiles.gentoo.org
 IUSE_IMPLICIT: abi_ppc_64 prefix prefix-guest prefix-stack
 KERNEL: linux
-PACKAGES: 759
-PROFILE: default/linux/ppc64/23.0
-TIMESTAMP: 1730800860
-USE: acl ada_target_gcc_12 apache2_modules_actions apache2_modules_alias apache2_modules_auth_basic apache2_modules_authn_anon apache2_modules_authn_core apache2_modules_authn_dbm apache2_modules_authn_file apache2_modules_authz_core apache2_modules_authz_dbm apache2_modules_authz_groupfile apache2_modules_authz_host apache2_modules_authz_owner apache2_modules_authz_user apache2_modules_autoindex apache2_modules_cache apache2_modules_cgi apache2_modules_cgid apache2_modules_dav apache2_modules_dav_fs apache2_modules_dav_lock apache2_modules_deflate apache2_modules_dir apache2_modules_env apache2_modules_expires apache2_modules_ext_filter apache2_modules_file_cache apache2_modules_filter apache2_modules_headers apache2_modules_include apache2_modules_info apache2_modules_log_config apache2_modules_logio apache2_modules_mime apache2_modules_mime_magic apache2_modules_negotiation apache2_modules_rewrite apache2_modules_setenvif apache2_modules_socache_shmcb apache2_modules_speling apache2_modules_status apache2_modules_unique_id apache2_modules_unixd apache2_modules_userdir apache2_modules_usertrack apache2_modules_vhost_alias big-endian bindist bzip2 calligra_features_karbon calligra_features_sheets calligra_features_words collectd_plugins_df collectd_plugins_interface collectd_plugins_irq collectd_plugins_load collectd_plugins_memory collectd_plugins_rrdtool collectd_plugins_swap collectd_plugins_syslog cpu_flags_ppc_altivec crypt elibc_glibc gdbm gpsd_protocols_aivdm gpsd_protocols_ashtech gpsd_protocols_earthmate gpsd_protocols_evermore gpsd_protocols_fv18 gpsd_protocols_garmin gpsd_protocols_garmintxt gpsd_protocols_gpsclock gpsd_protocols_greis gpsd_protocols_isync gpsd_protocols_itrax gpsd_protocols_navcom gpsd_protocols_oceanserver gpsd_protocols_oncore gpsd_protocols_rtcm104v2 gpsd_protocols_rtcm104v3 gpsd_protocols_sirf gpsd_protocols_skytraq gpsd_protocols_superstar2 gpsd_protocols_tnt gpsd_protocols_tripmate gpsd_protocols_tsip gpsd_protocols_ublox guile_single_target_3-0 guile_targets_3-0 ibm iconv input_devices_evdev input_devices_libinput ipv6 kernel_linux lcd_devices_bayrad lcd_devices_cfontz lcd_devices_glk lcd_devices_hd44780 lcd_devices_lb216 lcd_devices_lcdm001 lcd_devices_mtxorb lcd_devices_text lua_single_target_lua5-1 lua_targets_lua5-1 lvm ncurses nls office_implementation_libreoffice openmp pam pcre php_targets_php8-2 postgres_targets_postgres16 ppc64 python_single_target_python3_12 python_targets_python3_12 readline ruby_targets_ruby32 seccomp ssl test-rust unicode video_cards_dummy video_cards_fbdev xattr xtables_addons_account xtables_addons_chaos xtables_addons_condition xtables_addons_delude xtables_addons_dhcpmac xtables_addons_fuzzy xtables_addons_geoip xtables_addons_iface xtables_addons_ipmark xtables_addons_ipp2p xtables_addons_ipv4options xtables_addons_length2 xtables_addons_logmark xtables_addons_lscan xtables_addons_pknock xtables_addons_proto xtables_addons_psd xtables_addons_quota2 xtables_addons_sysrq xtables_addons_tarpit zlib
+PACKAGES: 780
+PROFILE: default/linux/ppc64/23.0/systemd
+TIMESTAMP: 1730816214
+USE: acl ada_target_gcc_12 apache2_modules_actions apache2_modules_alias apache2_modules_auth_basic apache2_modules_authn_anon apache2_modules_authn_core apache2_modules_authn_dbm apache2_modules_authn_file apache2_modules_authz_core apache2_modules_authz_dbm apache2_modules_authz_groupfile apache2_modules_authz_host apache2_modules_authz_owner apache2_modules_authz_user apache2_modules_autoindex apache2_modules_cache apache2_modules_cgi apache2_modules_cgid apache2_modules_dav apache2_modules_dav_fs apache2_modules_dav_lock apache2_modules_deflate apache2_modules_dir apache2_modules_env apache2_modules_expires apache2_modules_ext_filter apache2_modules_file_cache apache2_modules_filter apache2_modules_headers apache2_modules_include apache2_modules_info apache2_modules_log_config apache2_modules_logio apache2_modules_mime apache2_modules_mime_magic apache2_modules_negotiation apache2_modules_rewrite apache2_modules_setenvif apache2_modules_socache_shmcb apache2_modules_speling apache2_modules_status apache2_modules_unique_id apache2_modules_unixd apache2_modules_userdir apache2_modules_usertrack apache2_modules_vhost_alias big-endian bindist bzip2 calligra_features_karbon calligra_features_sheets calligra_features_words collectd_plugins_df collectd_plugins_interface collectd_plugins_irq collectd_plugins_load collectd_plugins_memory collectd_plugins_rrdtool collectd_plugins_swap collectd_plugins_syslog cpu_flags_ppc_altivec crypt elibc_glibc gdbm gpsd_protocols_aivdm gpsd_protocols_ashtech gpsd_protocols_earthmate gpsd_protocols_evermore gpsd_protocols_fv18 gpsd_protocols_garmin gpsd_protocols_garmintxt gpsd_protocols_gpsclock gpsd_protocols_greis gpsd_protocols_isync gpsd_protocols_itrax gpsd_protocols_navcom gpsd_protocols_oceanserver gpsd_protocols_oncore gpsd_protocols_rtcm104v2 gpsd_protocols_rtcm104v3 gpsd_protocols_sirf gpsd_protocols_skytraq gpsd_protocols_superstar2 gpsd_protocols_tnt gpsd_protocols_tripmate gpsd_protocols_tsip gpsd_protocols_ublox guile_single_target_3-0 guile_targets_3-0 ibm iconv input_devices_libinput ipv6 kernel_linux lcd_devices_bayrad lcd_devices_cfontz lcd_devices_glk lcd_devices_hd44780 lcd_devices_lb216 lcd_devices_lcdm001 lcd_devices_mtxorb lcd_devices_text lua_single_target_lua5-1 lua_targets_lua5-1 ncurses nls office_implementation_libreoffice openmp pam pcre php_targets_php8-2 postgres_targets_postgres16 ppc64 python_single_target_python3_12 python_targets_python3_12 readline ruby_targets_ruby32 seccomp ssl systemd test-rust udev unicode video_cards_dummy video_cards_fbdev video_cards_mga video_cards_r128 video_cards_radeon xattr xtables_addons_account xtables_addons_chaos xtables_addons_condition xtables_addons_delude xtables_addons_dhcpmac xtables_addons_fuzzy xtables_addons_geoip xtables_addons_iface xtables_addons_ipmark xtables_addons_ipp2p xtables_addons_ipv4options xtables_addons_length2 xtables_addons_logmark xtables_addons_lscan xtables_addons_pknock xtables_addons_proto xtables_addons_psd xtables_addons_quota2 xtables_addons_sysrq xtables_addons_tarpit zlib
 USE_EXPAND: ABI_MIPS ABI_S390 ABI_X86 ADA_TARGET ALSA_CARDS AMDGPU_TARGETS APACHE2_MODULES APACHE2_MPMS CALLIGRA_FEATURES CAMERAS COLLECTD_PLUGINS CPU_FLAGS_ARM CPU_FLAGS_PPC CPU_FLAGS_X86 CURL_QUIC CURL_SSL ELIBC FFTOOLS GPSD_PROTOCOLS GRUB_PLATFORMS GUILE_SINGLE_TARGET GUILE_TARGETS INPUT_DEVICES KERNEL L10N LCD_DEVICES LIBREOFFICE_EXTENSIONS LLVM_SLOT LLVM_TARGETS LUA_SINGLE_TARGET LUA_TARGETS NGINX_MODULES_HTTP NGINX_MODULES_MAIL NGINX_MODULES_STREAM OFFICE_IMPLEMENTATION OPENMPI_FABRICS OPENMPI_OFED_FEATURES OPENMPI_RM PERL_FEATURES PHP_TARGETS POSTGRES_TARGETS PYTHON_SINGLE_TARGET PYTHON_TARGETS QEMU_SOFTMMU_TARGETS QEMU_USER_TARGETS RUBY_TARGETS SANE_BACKENDS UWSGI_PLUGINS VIDEO_CARDS VOICEMAIL_STORAGE XTABLES_ADDONS
 USE_EXPAND_HIDDEN: ABI_MIPS ABI_S390 ABI_X86 CPU_FLAGS_ARM CPU_FLAGS_X86 ELIBC KERNEL
 USE_EXPAND_IMPLICIT: ARCH ELIBC KERNEL
@@ -23,6 +24,20 @@ USE_EXPAND_VALUES_ARCH: alpha amd64 amd64-linux arm arm64 arm64-macos hppa loong
 USE_EXPAND_VALUES_ELIBC: bionic Darwin glibc mingw musl SunOS
 USE_EXPAND_VALUES_KERNEL: Darwin linux SunOS
 VERSION: 0
+
+BUILD_ID: 1
+BUILD_TIME: 1730814190
+CPV: acct-group/adm-0-r3
+DEFINED_PHASES: install preinst pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: 83887b972ffbf7a137fa9e72d36b9ac3
+PATH: acct-group/adm/adm-0-r3-1.gpkg.tar
+SHA1: 4b0a6ac3df0603371c37056c24beff4eaeffd913
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730814199
+REPO: gentoo
 
 BUILD_ID: 1
 BUILD_TIME: 1730477573
@@ -249,6 +264,20 @@ MTIME: 1730703360
 REPO: gentoo
 
 BUILD_ID: 1
+BUILD_TIME: 1730814289
+CPV: acct-group/nobody-0-r2
+DEFINED_PHASES: install preinst pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: a238873ad74be45b2e6ec9f8ef5c4e92
+PATH: acct-group/nobody/nobody-0-r2-1.gpkg.tar
+SHA1: e90ea25e986028c850a09b16d116037266b0ca84
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730814302
+REPO: gentoo
+
+BUILD_ID: 1
 BUILD_TIME: 1730703304
 CPV: acct-group/ntp-0-r3
 DEFINED_PHASES: install preinst pretend
@@ -375,6 +404,104 @@ MTIME: 1730477300
 REPO: gentoo
 
 BUILD_ID: 1
+BUILD_TIME: 1730814280
+CPV: acct-group/systemd-coredump-0-r3
+DEFINED_PHASES: install preinst pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: de998e3b2578635f1bc1af558d79227c
+PATH: acct-group/systemd-coredump/systemd-coredump-0-r3-1.gpkg.tar
+SHA1: 0cb043946147931bf895efa0caba7e7e20df33eb
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730814296
+REPO: gentoo
+
+BUILD_ID: 1
+BUILD_TIME: 1730814240
+CPV: acct-group/systemd-journal-0-r3
+DEFINED_PHASES: install preinst pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: b9aa5e474110cd19fc2c348a274ab4e3
+PATH: acct-group/systemd-journal/systemd-journal-0-r3-1.gpkg.tar
+SHA1: ff173bc58ec7f5c31f786ec08ac0526d9eb03a62
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730814254
+REPO: gentoo
+
+BUILD_ID: 1
+BUILD_TIME: 1730814282
+CPV: acct-group/systemd-journal-remote-0-r3
+DEFINED_PHASES: install preinst pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: d4a4c295cc676ce021fee7ba4b887ed3
+PATH: acct-group/systemd-journal-remote/systemd-journal-remote-0-r3-1.gpkg.tar
+SHA1: 9a74d25bb3863f6f60fcda2c30bcd2a0bfb584b7
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730814296
+REPO: gentoo
+
+BUILD_ID: 1
+BUILD_TIME: 1730814275
+CPV: acct-group/systemd-network-0-r3
+DEFINED_PHASES: install preinst pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: 05172fa73f57c53a79eaa70383cfb7e1
+PATH: acct-group/systemd-network/systemd-network-0-r3-1.gpkg.tar
+SHA1: 20f065a57b6315e42e58397e4a95c06637700fa8
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730814289
+REPO: gentoo
+
+BUILD_ID: 1
+BUILD_TIME: 1730814270
+CPV: acct-group/systemd-oom-0-r2
+DEFINED_PHASES: install preinst pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: 63988e07b09ab962d2dc06a74f69de54
+PATH: acct-group/systemd-oom/systemd-oom-0-r2-1.gpkg.tar
+SHA1: 72eb5b2d2ff543e1a9087b72de4587d44f11c8be
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730814285
+REPO: gentoo
+
+BUILD_ID: 1
+BUILD_TIME: 1730814267
+CPV: acct-group/systemd-resolve-0-r3
+DEFINED_PHASES: install preinst pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: 42ee9dfa66261d2dcb69a86072bb436e
+PATH: acct-group/systemd-resolve/systemd-resolve-0-r3-1.gpkg.tar
+SHA1: 7624e58682a0aa564424a572d866cde6d77d259a
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730814284
+REPO: gentoo
+
+BUILD_ID: 1
+BUILD_TIME: 1730814259
+CPV: acct-group/systemd-timesync-0-r3
+DEFINED_PHASES: install preinst pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: e2ddc75c39369b52ff54e50b1d73d4e4
+PATH: acct-group/systemd-timesync/systemd-timesync-0-r3-1.gpkg.tar
+SHA1: 2a1d5d6a5855c5833df8e58dae9fc2efaef620f5
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730814275
+REPO: gentoo
+
+BUILD_ID: 1
 BUILD_TIME: 1730477821
 CPV: acct-group/tape-0-r3
 DEFINED_PHASES: install preinst pretend
@@ -417,6 +544,34 @@ MTIME: 1730477859
 REPO: gentoo
 
 BUILD_ID: 1
+BUILD_TIME: 1730814234
+CPV: acct-group/users-0-r2
+DEFINED_PHASES: install preinst pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: 13c99b555868c50eaf1f9be643d186c9
+PATH: acct-group/users/users-0-r2-1.gpkg.tar
+SHA1: 397912b69d9e8a39d7c24d980b3ed95428fd0d3d
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730814245
+REPO: gentoo
+
+BUILD_ID: 1
+BUILD_TIME: 1730814203
+CPV: acct-group/utmp-0-r3
+DEFINED_PHASES: install preinst pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: 67d26130a762277de849a73a59cbb50c
+PATH: acct-group/utmp/utmp-0-r3-1.gpkg.tar
+SHA1: c8d12f49ff136b0f1b3ac82dbc8b9185c65ca1df
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730814211
+REPO: gentoo
+
+BUILD_ID: 1
 BUILD_TIME: 1730477853
 CPV: acct-group/video-0-r3
 DEFINED_PHASES: install preinst pretend
@@ -428,6 +583,20 @@ SHA1: 2aedb12db2fa6e6ec3c3d109eb382adc3a68b0f0
 SIZE: 20480
 USE: elibc_glibc kernel_linux ppc64
 MTIME: 1730477866
+REPO: gentoo
+
+BUILD_ID: 1
+BUILD_TIME: 1730814192
+CPV: acct-group/wheel-0-r3
+DEFINED_PHASES: install preinst pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: ac405ee358a620908cdee45eb6648852
+PATH: acct-group/wheel/wheel-0-r3-1.gpkg.tar
+SHA1: abef0e719052ba1ebfdda1161bbda2a70838ca46
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730814202
 REPO: gentoo
 
 BUILD_ID: 1
@@ -491,6 +660,21 @@ MTIME: 1730479102
 REPO: gentoo
 
 BUILD_ID: 1
+BUILD_TIME: 1730815288
+CPV: acct-user/nobody-0-r2
+DEFINED_PHASES: install postinst preinst prerm pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: defde78036cbe7f885d01546bc4952bc
+PATH: acct-user/nobody/nobody-0-r2-1.gpkg.tar
+RDEPEND: acct-group/nobody acct-user/root
+SHA1: 6efce6560664d14eafe008f554e81ac4255968af
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730815296
+REPO: gentoo
+
+BUILD_ID: 1
 BUILD_TIME: 1730707606
 CPV: acct-user/ntp-0-r3
 DEFINED_PHASES: install postinst preinst prerm pretend
@@ -536,6 +720,21 @@ MTIME: 1730415677
 REPO: gentoo
 
 BUILD_ID: 1
+BUILD_TIME: 1730815012
+CPV: acct-user/root-0-r3
+DEFINED_PHASES: install postinst preinst prerm pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: 5af9eec4923e53eae7cc7a722bffefc8
+PATH: acct-user/root/root-0-r3-1.gpkg.tar
+RDEPEND: acct-group/root
+SHA1: 66c1666b290a4ef06da57774df55d9c3f15af04e
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730815026
+REPO: gentoo
+
+BUILD_ID: 1
 BUILD_TIME: 1730479105
 CPV: acct-user/sshd-0-r3
 DEFINED_PHASES: install postinst preinst prerm pretend
@@ -548,6 +747,96 @@ SHA1: 3c946c2ceeb83158a9de1952de03ecc3e1d714a2
 SIZE: 20480
 USE: elibc_glibc kernel_linux ppc64
 MTIME: 1730479115
+REPO: gentoo
+
+BUILD_ID: 1
+BUILD_TIME: 1730815027
+CPV: acct-user/systemd-coredump-0-r3
+DEFINED_PHASES: install postinst preinst prerm pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: cd589f5d0a6213ff3b2c5b9199fb84af
+PATH: acct-user/systemd-coredump/systemd-coredump-0-r3-1.gpkg.tar
+RDEPEND: acct-group/systemd-coredump
+SHA1: a1d6ba564d2a50db36b8ef604580dc74fb363644
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730815039
+REPO: gentoo
+
+BUILD_ID: 1
+BUILD_TIME: 1730815018
+CPV: acct-user/systemd-journal-remote-0-r3
+DEFINED_PHASES: install postinst preinst prerm pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: f5eca3869ba2f62b42e75bd1efb4f7a5
+PATH: acct-user/systemd-journal-remote/systemd-journal-remote-0-r3-1.gpkg.tar
+RDEPEND: acct-group/systemd-journal-remote
+SHA1: 7ec59a67edbbe5a39933a7e486bc1f297056f03e
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730815034
+REPO: gentoo
+
+BUILD_ID: 1
+BUILD_TIME: 1730815031
+CPV: acct-user/systemd-network-0-r3
+DEFINED_PHASES: install postinst preinst prerm pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: 24f1aecbcc58960c633e4ed1629b2805
+PATH: acct-user/systemd-network/systemd-network-0-r3-1.gpkg.tar
+RDEPEND: acct-group/systemd-network
+SHA1: f335fd75c28022b39a9bb2f70addbdcec7f1eef6
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730815043
+REPO: gentoo
+
+BUILD_ID: 1
+BUILD_TIME: 1730815039
+CPV: acct-user/systemd-oom-0-r2
+DEFINED_PHASES: install postinst preinst prerm pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: cd304294c43a740ca83a8aac462b37f7
+PATH: acct-user/systemd-oom/systemd-oom-0-r2-1.gpkg.tar
+RDEPEND: acct-group/systemd-oom
+SHA1: 31a409d16534e54beb3cacf4e12dce1d675a962a
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730815051
+REPO: gentoo
+
+BUILD_ID: 1
+BUILD_TIME: 1730815040
+CPV: acct-user/systemd-resolve-0-r3
+DEFINED_PHASES: install postinst preinst prerm pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: c719fe53efb3cc7afa19d2409d0422fc
+PATH: acct-user/systemd-resolve/systemd-resolve-0-r3-1.gpkg.tar
+RDEPEND: acct-group/systemd-resolve
+SHA1: e79ff029f2e6f8aad18f6277a8170fa8f9f865b8
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730815051
+REPO: gentoo
+
+BUILD_ID: 1
+BUILD_TIME: 1730815047
+CPV: acct-user/systemd-timesync-0-r3
+DEFINED_PHASES: install postinst preinst prerm pretend
+EAPI: 8
+KEYWORDS: ~alpha amd64 arm arm64 hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+MD5: 54a602198de24f95ed45c1f5f4f8fef6
+PATH: acct-user/systemd-timesync/systemd-timesync-0-r3-1.gpkg.tar
+RDEPEND: acct-group/systemd-timesync
+SHA1: fec91431f52149f17a3858883c2e0f70b0d50399
+SIZE: 20480
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730815057
 REPO: gentoo
 
 BDEPEND: dev-util/glib-utils >=sys-devel/gettext-0.19.8 virtual/pkgconfig app-arch/xz-utils >=dev-build/meson-1.2.3 app-alternatives/ninja dev-build/meson-format-array virtual/pkgconfig
@@ -1016,6 +1305,29 @@ SIZE: 747520
 SLOT: 0/13
 USE: acl bzip2 e2fsprogs elibc_glibc iconv kernel_linux lzma ppc64 xattr zstd
 MTIME: 1730536283
+REPO: gentoo
+
+BDEPEND: >=dev-build/meson-1.2.3 app-alternatives/ninja dev-build/meson-format-array
+BUILD_ID: 1
+BUILD_TIME: 1730816204
+CPV: app-arch/lz4-1.10.0-r1
+DEFINED_PHASES: compile configure install test
+EAPI: 8
+IUSE: static-libs test abi_x86_32 abi_x86_64 abi_x86_x32 abi_mips_n32 abi_mips_n64 abi_mips_o32 abi_s390_32 abi_s390_64
+KEYWORDS: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 sparc x86 ~amd64-linux ~x86-linux ~arm64-macos ~ppc-macos ~x64-macos ~x64-solaris
+LICENSE: BSD-2 GPL-2
+MD5: 5bd419b12d9594f981c8f2fd5eb3de05
+PATH: app-arch/lz4/lz4-1.10.0-r1-1.gpkg.tar
+PROVIDES: ppc_64: liblz4.so.1
+RDEPEND: >=sys-libs/glibc-2.39-r6
+REPO_REVISIONS: {}
+REQUIRES: ppc_64: libc.so.6
+RESTRICT: test
+SHA1: fee587b7d5056de44bfd8e7afa509b0341e1f1a4
+SIZE: 276480
+SLOT: 0/1.10.0-meson
+USE: elibc_glibc kernel_linux ppc64
+MTIME: 1730816212
 REPO: gentoo
 
 BUILD_ID: 1
@@ -11544,7 +11856,6 @@ MD5: f94f150ab705ff024ff7ae1deac237e1
 PATH: sys-kernel/gentoo-kernel-ps3/gentoo-kernel-ps3-6.6.51-1.gpkg.tar
 PROVIDES: ppc_32: linux-vdso32.so.1 ppc_64: linux-vdso64.so.1
 RDEPEND: !sys-kernel/gentoo-kernel-bin:6.6.51 sys-apps/kmod[lzma] virtual/libelf >=sys-libs/glibc-2.39-r6
-REPO_REVISIONS: {}
 REQUIRES: ppc_64: libc.so.6
 RESTRICT: test
 SHA1: dc32d3f07709101b6c245525b5c678226be44806
